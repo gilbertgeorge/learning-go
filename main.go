@@ -3,5 +3,6 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println("Hello Golang") // prints "Hello Golang" to the screen
+	fmt.Println("Hello Golang")
+	fmt.Println("Hello Golang2")
 }
